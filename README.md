@@ -1,2 +1,9 @@
 # kortex
-A Backend Framework based on Kotlin &amp; Vert.x
+
+A Backend Framework Based on Kotlin & Vert.x
+
+## Roadmap
+
+- [x] Dependency Injection
+- [ ] Web
+- [ ] ORM
