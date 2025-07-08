@@ -1,6 +1,10 @@
 package com.example
 
+import kotlin.time.measureTime
+
 
 fun main() {
-    println(ExampleController().f())
+    println(measureTime {
+        println(ExampleController().f())
+    })
 }
